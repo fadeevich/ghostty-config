@@ -21,8 +21,13 @@ window-padding-x = 5,5
 window-padding-y = 5,0
 window-padding-balance = true
 confirm-close-surface = false
-gtk-titlebar=false
-window-decoration=false
+gtk-titlebar = false
+window-decoration = false
 gtk-adwaita = false
 
 resize-overlay = never
+
+keybind = ctrl+shift+n=unbind
+keybind = ctrl+shift+p=unbind
+
+term = xterm-kitty
